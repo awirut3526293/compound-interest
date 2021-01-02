@@ -107,9 +107,7 @@ printf ("Input P: ");
 	
 scanf ("%lf", &p);
 	
-/*	printf("Input S: ");
-		scanf("%lf",&s);*/ 
-	  printf ("Input r: ");
+ printf ("Input r: ");
 	
 scanf ("%lf", &r);
 	
@@ -131,10 +129,7 @@ case 2:
       {
 	
 printf ("**** P calculator****\n");
-	
-	  /*                      printf("Input P: "); 
-	     /scanf("%lf",&p); */ 
-	  printf ("Input S: ");
+printf ("Input S: ");
 	
 scanf ("%lf", &s);
 	
